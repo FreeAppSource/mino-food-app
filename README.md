@@ -1,5 +1,7 @@
 # Mino Food App
 
+> 👨‍💻 Developed by **[Suresh Kumar Meesala](https://github.com/SureshKumarMeesala)** · 🎨 UI design by **deeperUI** (credits below)
+
 A complete food delivery and tracking application built with **React Native (0.88+)**, **Expo SDK 58+**, and **Expo Router** using **JavaScript and JSX (`.js`, `.jsx`)**.
 
 Directly translated from the original Sketch design: `mino-food-deeperui.sketch` by **Deeper UI**.
@@ -50,6 +52,21 @@ npx expo start
 Then press `i` for the iOS simulator, `a` for Android, or `w` for the web, or scan the QR code with Expo Go.
 
 <!-- run-locally:end -->
+
+<!-- developer:start -->
+
+## 👨‍💻 Developer
+
+This React Native app was developed by **Suresh Kumar Meesala**.
+
+| | |
+|---|---|
+| Developer | [Suresh Kumar Meesala](https://github.com/SureshKumarMeesala) |
+| GitHub | [@SureshKumarMeesala](https://github.com/SureshKumarMeesala) |
+| Organization | [FreeAppSource](https://github.com/FreeAppSource) |
+| Repository | <https://github.com/FreeAppSource/mino-food-app> |
+
+<!-- developer:end -->
 
 ---
 
